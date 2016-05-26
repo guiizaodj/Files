@@ -1,0 +1,15 @@
+1º Passo
+vá até a pasta C:\Riot Games\League of Legends\RADS\projects\lol_air_client_config_br\releases\0.0.0.21\deploy
+
+2º Passo
+abra o arquivo lol.properties com o bloco de notas
+
+3º Passo
+ache esta linha \/
+xmpp_server_url=chat.br.lol.riotgames.com
+e altere para isso
+xmpp_server_url=.chat.br.lol.riotgames.com
+
+Pronto!
+Pra ficar online novamente é só voltar para como estava antes.
+é necessário reabrir o lol.
